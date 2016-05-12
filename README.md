@@ -1,5 +1,6 @@
 Transdroid
 ==========
+UPDATE: Compiled APK (transdroidmaster.apk) since offical release does not include the bugfix for adding torrents.
 
 [www.transdroid.org](http://www.transdroid.org)  
 [Google+](https://plus.google.com/u/0/b/106240944422491053650/106240944422491053650) - [Twitter](https://twitter.com/transdroid) - [transdroid@2312.nl](transdroid@2312.nl) - [Transdrone in Play Store](https://play.google.com/store/apps/details?id=org.transdroid.lite)
